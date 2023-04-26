@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;FailFast.java&apos; to &apos;FailSafeFAilFAst/src/com.failfast&apos;&#x0D;&#x0A;- Original project: &apos;FailSafeFAilFAst&apos;&#x0D;&#x0A;- Destination element: &apos;FailSafeFAilFAst/src/com.failfast&apos;&#x0D;&#x0A;- Original element: &apos;FailFast.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;com.failfast" element1="/src&lt;{FailFast.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1682487482553" units="1" version="1.0"/>
+</session>

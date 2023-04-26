@@ -1,0 +1,5 @@
+package com.failfast;
+
+public class failSafeOrNonFailFast {
+
+}

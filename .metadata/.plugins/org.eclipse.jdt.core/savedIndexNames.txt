@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+D:\eclipse-workspace-FailFastAndFailSafe\.metadata\.plugins\org.eclipse.jdt.core
+3562014747.index
+3749305839.index
+1865797976.index
